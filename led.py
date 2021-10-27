@@ -1,5 +1,4 @@
 #! /usr/bin/python
-#
 import json 
 import time
 import os
