@@ -5,7 +5,8 @@ needs openrgb server running (simply click the button to start OpenRGB Server in
 
 OR 
 
-use a systemd unit file
+use a systemd unit file starts the openRGB server/service on startup 
+cat /usr/lib/systemd/system/openrgb.service
 
 [Unit]
 Description=Run openrgb server
