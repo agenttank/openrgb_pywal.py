@@ -40,3 +40,4 @@ Example
 ![pywal_openrgb](https://user-images.githubusercontent.com/11365165/140305995-308386bd-7641-44d4-94eb-b84f713f7ec2.jpeg)
 
 
+Many parts of the script are copied from another python script - I edit this README as soon as I find it.
