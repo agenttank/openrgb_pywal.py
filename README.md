@@ -35,3 +35,8 @@ systemctl enable openrgb
 i trigger the script with this (also let's me set a wallpaper):
 wallpaper='wal --backend colorz -i "$(sxiv -tfbo ~/.local/share/wallpapers)" && ~/.config/wal/led.py'
 
+Example
+
+![pywal_openrgb](https://user-images.githubusercontent.com/11365165/140305995-308386bd-7641-44d4-94eb-b84f713f7ec2.jpeg)
+
+
